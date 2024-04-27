@@ -6,16 +6,12 @@
  <img src="https://github.githubassets.com/assets/logo-878d910ebda6.svg" alt="https://github.com/Josebaezx/ros" />
 </p>
 
-Proyecto ... 
+EP1 - UNIDA 2024
 
 ## Tecnologias
  
 - [Phyton](https://www.python.org/)
 - ...
-
-## Prácticas adoptadas
-
-- Tests automatizados
 
 
 ## Como Ejecutar
@@ -30,5 +26,5 @@ Proyecto ...
 3- rosrun turtlesim turtlesim_node | se inicia la tortuga
 ```
 ```
-4- rosrun beginner_tutorials src/mover.py | ejecutar y observar el movimiento
+4- rosrun turtle_unida src/mover.py | ejecutar y observar el movimiento
 ```
